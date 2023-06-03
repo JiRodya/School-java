@@ -1,0 +1,12 @@
+[submodule "School-java"]
+	path = School-java
+	url = https://github.com/JiRodya/School-java.git
+[submodule "Keypad_Word_Combination"]
+	path = Keypad_Word_Combination
+	url = https://github.com/JiRodya/Keypad_Word_Combination.git
+[submodule "Simple-Sotck-Simm"]
+	path = Simple-Sotck-Simm
+	url = https://github.com/JiRodya/Simple-Sotck-Simm.git
+[submodule "First-Java-Project"]
+	path = First-Java-Project
+	url = https://github.com/JiRodya/First-Java-Project.git
