@@ -10,3 +10,18 @@
 [submodule "First-Java-Project"]
 	path = First-Java-Project
 	url = https://github.com/JiRodya/First-Java-Project.git
+[submodule "Directory_Sorter"]
+	path = Directory_Sorter
+	url = https://github.com/JiRodya/Directory_Sorter.git
+[submodule "Balance-Transitions"]
+	path = Balance-Transitions
+	url = https://github.com/JiRodya/Balance-Transitions.git
+[submodule "World-Clock"]
+	path = World-Clock
+	url = https://github.com/JiRodya/World-Clock.git
+[submodule "Stall-Distribution"]
+	path = Stall-Distribution
+	url = https://github.com/JiRodya/Stall-Distribution.git
+[submodule "Dice-Odds"]
+	path = Dice-Odds
+	url = https://github.com/JiRodya/Dice-Odds.git
